@@ -1,3 +1,4 @@
+<img width="1080" height="533" alt="Ecommerce 2" src="https://github.com/user-attachments/assets/bf02f4bc-9a07-44d1-bf79-e4f8d4c9bf40" />
 <img width="924" height="485" alt="Ecommerce 1" src="https://github.com/user-attachments/assets/6303e3a3-7436-4e55-a17b-6bef6e76ee30" />
 
 # E-Commerce Website 🛒
