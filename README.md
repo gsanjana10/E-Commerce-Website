@@ -1,6 +1,7 @@
 
 
 <img width="924" height="485" alt="Ecommerce 1" src="https://github.com/user-attachments/assets/6303e3a3-7436-4e55-a17b-6bef6e76ee30" />
+<img width="1821" height="864" alt="EasyDeals Storefront with Sanjana Profile" src="https://github.com/user-attachments/assets/ee6fb5f0-29a3-4d7e-8e2e-bf46032f8f2c" />
 <img width="1080" height="533" alt="Ecommerce 2" src="https://github.com/user-attachments/assets/bf02f4bc-9a07-44d1-bf79-e4f8d4c9bf40" />
 <img width="1080" height="534" alt="Ecommerce-3" src="https://github.com/user-attachments/assets/af18bfd9-427f-410e-a348-ea8a8020265f" />
 <img width="1821" height="864" alt="EasyDeals Storefront with Sanjana Profile" src="https://github.com/user-attachments/assets/ee6fb5f0-29a3-4d7e-8e2e-bf46032f8f2c" />
