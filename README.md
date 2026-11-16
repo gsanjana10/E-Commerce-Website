@@ -10,7 +10,6 @@
 
 <img width="1080" height="533" alt="Ecommerce 2" src="https://github.com/user-attachments/assets/bf02f4bc-9a07-44d1-bf79-e4f8d4c9bf40" />
 <img width="1080" height="534" alt="Ecommerce-3" src="https://github.com/user-attachments/assets/af18bfd9-427f-410e-a348-ea8a8020265f" />
-<img width="1080" height="534" alt="Ecommerce-3" src="https://github.com/user-attachments/assets/93e86b1c-14f7-4232-b7f5-330330666645" />
 
 # E-Commerce Website 🛒
 
