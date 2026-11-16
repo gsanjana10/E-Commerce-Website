@@ -1,11 +1,12 @@
 
-
 <img width="924" height="485" alt="Ecommerce 1" src="https://github.com/user-attachments/assets/6303e3a3-7436-4e55-a17b-6bef6e76ee30" />
 <img width="1821" height="864" alt="EasyDeals Storefront with Sanjana Profile" src="https://github.com/user-attachments/assets/ee6fb5f0-29a3-4d7e-8e2e-bf46032f8f2c" />
 <img width="1791" height="878" alt="EasyDeals Mobiles Collection" src="https://github.com/user-attachments/assets/dd1b7e88-9d92-4cd1-8ae0-ec16eb0a9c0e" />
 <img width="1836" height="857" alt="EazyDeals Cart for Sanjana" src="https://github.com/user-attachments/assets/118f492f-497e-4755-8d20-8bb2482046eb" />
 <img width="1800" height="874" alt="EasyDeals Checkout Address Update" src="https://github.com/user-attachments/assets/9067f711-cc2f-4fad-9441-97e5a0d5cb0c" />
 <img width="1797" height="875" alt="EazyDeals Order Confirmation Page" src="https://github.com/user-attachments/assets/deac39fd-1f56-4342-878a-682edc7e57df" />
+<img width="1934" height="813" alt="Gmail Order Confirmation Interface" src="https://github.com/user-attachments/assets/a400d4b7-527c-43fe-bcd1-0359eb4bc6c4" />
+
 
 
 <img width="1080" height="533" alt="Ecommerce 2" src="https://github.com/user-attachments/assets/bf02f4bc-9a07-44d1-bf79-e4f8d4c9bf40" />
